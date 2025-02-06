@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://tenor-gules-delta.vercel.app/api/picture" # Link to the webpage to redirect to 
+        "page": "https://tenor-gules-delta.vercel.app/api/image" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
